@@ -96,7 +96,7 @@ sof-firmware
 squashfs-tools
 sudo
 syslinux
-systemd-resolvconf
+#systemd-resolvconf
 tcpdump
 testdisk
 tpm2-tools

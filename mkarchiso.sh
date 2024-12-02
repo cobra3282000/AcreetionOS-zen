@@ -1,1 +1,1 @@
-mkarchiso -L AcreetionOS -v -o ../ISO . -j$nproc
+mkarchiso -L AcreetionOS-zen -v -o ../ISO . -j$nproc
